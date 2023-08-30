@@ -2,7 +2,6 @@
 
 Uma calculadora de pontos de atributos para jogadores de Dungeons & Dragons. Esta aplicação permite que os jogadores alocem pontos de atributos de acordo com as regras do jogo.
 
-![Screenshot](screenshot.png)
 
 ## Funcionalidades
 
