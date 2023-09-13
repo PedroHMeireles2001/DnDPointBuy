@@ -23,31 +23,6 @@ h1 {
   margin-bottom: 20px;
 }
 
-.attribute-input {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  margin-bottom: 10px;
-}
-
-button {
-  background-color: #007bff;
-  color: white;
-  border: none;
-  border-radius: 3px;
-  padding: 5px 10px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-button:hover {
-  background-color: #0056b3;
-}
-
-span {
-  font-size: 20px;
-  font-weight: bold;
-}
 
 p {
   margin-top: 10px;
